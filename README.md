@@ -1,3 +1,3 @@
 # LeetCode
 
-Solution to Leetcode questions in C++
+Practice using C++ and python3
